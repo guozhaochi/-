@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>沈阳恒昊互联数据中心提醒您：您的虚拟主机已经开设成功！！！</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<STYLE>
+TD {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 15pt
+}
+</STYLE>
+
+<META content="MSHTML 6.00.3790.605" name=GENERATOR></HEAD>
+<BODY>
+<TABLE cellSpacing=0 cellPadding=0 width=980 border=0 align="center">
+  <TBODY>
+  <TR>
+    <TD vAlign=top width=900>
+      <TABLE cellSpacing=0 cellPadding=0 width=970 border=0 align="center">
+        <TBODY>
+        <TR>
+          <TD vAlign=bottom width=970 height=130>&nbsp;&nbsp;&nbsp;&nbsp;<IMG 
+            height=145 src="http://www.syhhidc.com/images/success.jpg" width=438></TD>
+        </TR>
+        <TR>
+          <TD vAlign=top width=970>
+            <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>看到本页面表示您的虚拟主机已开通，如已完成网站备案，您可以使用FTP上传文件：</b>
+            <BLOCKQUOTE>
+              <P>1<SPAN class=big><FONT 
+              color=#000000>、</FONT></SPAN>FTP登陆后目录结构如下：<BR>　
+                　根目录<BR>
+              　　　|- web 
+              网站根目录，网页文件请上传到这个目录，此目录不能删除，否则网站无法访问！<BR>
+              　　　|- log 
+              存放日志文件。<BR>
+              　　　|- db  
+              备份目录，也可以把数据库文件存放在这个目录下，但路径要用绝对路径。<BR>
+              　　&nbsp;注意：您的网页文件必需存放在 web 目录下才能被访问，本页面文件名为index.htm，请删除后上传您自己的网站文件，<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;缺省网站首页文件按优先顺序为 ：：index.htm,index.html,Default.htm,index.asp,Default.asp,index.aspx,Default.aspx,index.php,default.php等。<br>　　
+              上传文件名、目录名最好是字母、数字或者是字母数字混合，请不要用中文或特殊字符命名。 
+              <br>
+              　　
+              本网页文件名为index.htm 
+              是主机自动开设后系统生成的页面，您可以删除掉或用自己的页面将此页面覆盖。<BR>
+              　
+              　如果在上传中碰到无法列出目录等情况,请尝试着把上传软件的PASV模式关掉或选择被动模式。
+              <br>&nbsp;&nbsp;&nbsp;&nbsp;
+              我们推荐您使用FileZilla软件（<a href="http://www.syhhidc.com/download/FileZilla.rar" target="_blank" style="color:#ff0000;">点击下载</a>）上传文件，高速稳定，故障少。
+              <br>
+              　　
+              欢迎您使用恒昊互联<A 
+              href="http://www.syhhidc.com/host.asp">虚拟主机</A>、<A 
+              href="http://www.syhhidc.com/yun.asp">云主机</A>。服务网站：<a href="http://www.syhhidc.com" target="_blank">http://www.syhhidc.com</a>
+              <table cellpadding="0" cellspacing="0" border="0"><tr><td height="10px"></td></tr></table>2、<b>关于网站备案的特别提醒：</b>
+              <table cellpadding="0" cellspacing="0" border="0" width="805px">
+              	<tr>
+                <td width="30px"></td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ff0000">根据《中华人民共和国电信条例》、《互联网信息服务管理办法》以及《非经营性互联网信息服务备案管理办法》的规定，国家对互联网信息服务（即开设网站）实行真实性备案、许可制度，任何网站均需"先备案，后接入"。否则，即属违法行为，通信管理局将对网站实施关停、罚款等严厉处罚。因此特提醒您在空间开通后，请立即用会员登录我们的网站，在主机管理里点击红色字体的“进入备案系统&gt;&gt;&gt;&gt; ”或点击"IDC客户专用备案管理"链接，如实填写您网站的相关信息后并到我公司办理备案手续或邮寄备案资料，否则我们只能依法暂停您的网站空间，直至当地通信管理局对您的备案审批通过。在您的网站备案获得审批之前，您将不能绑定该正式域名，也请勿上传网站内容！<a href="http://www.syhhidc.com/user" target="_blank">点击查看国家相关规定及备案详细流程</a></font>                </td>
+                </tr>
+              </table>
+              <table cellpadding="0" cellspacing="0" border="0"><tr><td height="10px"></td></tr></table>
+              3、客服联系方式：
+              <table cellpadding="0" cellspacing="0" border="0" width="805px">
+              	<tr>
+                <td width="30px"></td>
+                <td>公司名称：沈阳恒昊互联网络有限公司&nbsp;&nbsp;&nbsp;&nbsp;网址：<a href="http://www.syhhidc.com" target="_blank">www.syhhidc.com</a>&nbsp;&nbsp;&nbsp;&nbsp;E-mail：<a href="mailto:support@syhhidc.com" target="_blank">sopport@syhhidc.com</a><br>
+                客服QQ：4006558158 客服电话：4006558158<br>
+                技术支撑电话：024-88623300 88625500 88627722 88623355
+              </td>
+                </tr>
+              </table>
+            </BLOCKQUOTE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML>
